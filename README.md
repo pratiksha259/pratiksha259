@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hello, Myself Pratiksha Dubey </h1>
    <p align="center">
-  <img width="300" src="https://media4.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47a387tsd8zxy1hw368egf3m418r0r09bu0itqy0ba&rid=giphy.gif&ct=g">
+  <img width="500" src="https://www.analyticsinsight.net/wp-content/uploads/2022/09/Have-Code-Editing-Issues-Syntax-Highlighting-is-here-for-Rescue.jpg">
 </p>
 
  
@@ -15,17 +15,17 @@
 
 
 
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pratiksha259&theme=midnight-purple)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pratiksha259&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    
    
 ##   GitHub Stats📊
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratiksha259&theme=radical)
+![pratiksha259's Stats](https://github-readme-stats.vercel.app/api?username=pratiksha259&theme=prussian&show_icons=true&hide_border=false&count_private=true)
    
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratiksha259&theme=moonlight)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratiksha259&theme=moonlight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratiksha259&theme=prussian)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratiksha259&theme=prussian)
 
 
 
@@ -39,14 +39,14 @@
 
    
    
-<a href="https://www.hackerrank.com/sheetal05" target="_blank"><img src=	"https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" img height="21" alt="Hackerrank"></a>
-<a href="https://leetcode.com/sheetalshreya05/" target="_blank"><img src=	"https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" img height="21" alt="Leetcode"></a>
 
-<a href="https://www.codechef.com/users/sheetal_5" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" img height="21" alt="Codechef" style="margin-bottom: 2px;" /></a> 
+<a href="https://leetcode.com/pratiksha259/" target="_blank"><img src=	"https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" img height="21" alt="Leetcode"></a>
+
+<a href="https://auth.geeksforgeeks.org/user/pratikshact8v" target="_blank"><img src="https://img.shields.io/badge/Geeksforgeeks-%23B92B27.svg?&style=for-the-badge&logo=Geeksforgeeks&logoColor=white" img height="21" alt="Geeksforgeeks" style="margin-bottom: 2px;" /></a> 
    
 </div>
 
- [![An image of @sheetal59's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sheetal59)](https://holopin.io/@sheetal59)
+
   
   
    ##
